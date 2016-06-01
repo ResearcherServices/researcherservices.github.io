@@ -177,7 +177,7 @@ header ul {
 }
 
 header li {
-  width:189px;
+  width:250px;
   float:left;
   border-right:1px solid #e0e0e0;
   height:40px;
@@ -243,7 +243,7 @@ hr {
 }
 
 footer {
-  width:100%;
+  width:777px;
   float:left;
   position:absolute;
   bottom:0;
